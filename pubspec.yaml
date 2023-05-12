@@ -1,4 +1,4 @@
-name: open_file_safe
+name: x_open_file_safe
 description: A plug-in that can call native APP to open files with string result in flutter, support iOS(UTI) / android(intent) / PC(ffi) / web(dart:html)
 version: 3.2.3
 author: arkatech
